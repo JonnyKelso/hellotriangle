@@ -32,4 +32,6 @@
 *.app
 
 # XCode project files
-.xcodeproj/ !*.xcodeproj/project.pbxproj # exclude everything except the actual project file
+# exclude everything except the actual project file
+*.xcodeproj/* 
+!*.xcodeproj/project.pbxproj
