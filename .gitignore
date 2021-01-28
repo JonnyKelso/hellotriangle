@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# XCode project files
+.xcodeproj/ !*.xcodeproj/project.pbxproj # exclude everything except the actual project file
