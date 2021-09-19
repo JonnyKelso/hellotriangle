@@ -1,12 +1,4 @@
-//
-//  Quad.hpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 07/01/2021.
-//
-
-#ifndef Quad_h
-#define Quad_h
+#pragma once
 
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
@@ -82,4 +74,3 @@ namespace Graphics::Examples
                 };
     };
 }
-#endif /* Quad_h */

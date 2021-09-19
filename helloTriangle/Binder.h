@@ -1,14 +1,3 @@
-//
-//  Binder.h
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 16/10/2020.
-//  Copyright © 2020 Jonny Kelso. All rights reserved.
-//
-
-#ifndef Binder_h
-#define Binder_h
-
 #include "stbImageLoader.h"
 
 #include <iostream>
@@ -191,4 +180,3 @@ public:
      GLuint m_Texture{};
      int m_gl_texture{};
 };
-#endif /* Binder_h */

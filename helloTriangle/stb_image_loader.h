@@ -1,10 +1,4 @@
-//
-//  stb_image_impl.cpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 02/04/2020.
-//  Copyright © 2020 Jonny Kelso. All rights reserved.
-//
+
 #ifndef STB_IMAGE_H
 #define STB_IMAGE_H
 

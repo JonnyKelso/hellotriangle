@@ -1,12 +1,4 @@
-//
-//  Cubes.hpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 07/01/2021.
-//
-
-#ifndef Cubes_h
-#define Cubes_h
+#pragma once
 
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
@@ -106,4 +98,4 @@ namespace Graphics::Examples
         //Graphics::EBOBinder ebo{};
     };
 }
-#endif /* Cubes_h */
+

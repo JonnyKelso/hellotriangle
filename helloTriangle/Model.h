@@ -1,10 +1,4 @@
-//
-//  Model.hpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 05/11/2020.
-//  Copyright © 2020 Jonny Kelso. All rights reserved.
-//
+
 #pragma once
 
 #include "Mesh.h"

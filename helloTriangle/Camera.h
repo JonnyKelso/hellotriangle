@@ -1,9 +1,4 @@
-//
-//  Camera.h
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 07/05/2021.
-//
+
 #pragma once
 
 #include "glm/glm.hpp"

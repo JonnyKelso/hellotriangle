@@ -1,10 +1,4 @@
-//
-//  stbImageLoader.hpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 22/10/2020.
-//  Copyright © 2020 Jonny Kelso. All rights reserved.
-//
+
 
 #ifndef STB_IMAGE_H
 #define STB_IMAGE_H

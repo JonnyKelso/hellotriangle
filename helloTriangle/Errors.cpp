@@ -1,9 +1,4 @@
-//
-//  Errors.cpp
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 10/09/2021.
-//
+
 
 #include "Errors.h"
 

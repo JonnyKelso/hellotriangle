@@ -1,10 +1,3 @@
-//
-//  Mesh.h
-//  helloTriangle
-//
-//  Created by Jonny Kelso on 16/10/2020.
-//  Copyright © 2020 Jonny Kelso. All rights reserved.
-//
 
 #pragma once
 
